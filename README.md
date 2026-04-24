@@ -4,3 +4,5 @@ Este repositorio contiene los archivos iniciales para la Actividad N°5 de la ma
 Además, este mismo proyecto se utilizará más adelante para realizar la vinculación remota y simulaciones de trabajo en equipo.
 **Estado actual:** Trabajando en la Actividad N°5.
 Esta línea fue agregada directamente desde la web de GitHub.
+
+Hola maxi, este es mi aporte para el ejercicio del tp
